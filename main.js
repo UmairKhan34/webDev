@@ -2,5 +2,5 @@ const main=()=>{
     console.log("Main function")
 }
 const evenfuntion=()=>{
-    console.log("Even    function")
+    console.log("Even function")
 }
