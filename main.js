@@ -1,3 +1,6 @@
+const secondary=()=>{
+    console.log("secondary function")
+}
 const main=()=>{
     console.log("Main function")
 }
