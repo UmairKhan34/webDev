@@ -1,3 +1,7 @@
+const primray=()=>{
+console.log("primrary function")
+
+}
 const main=()=>{
     console.log("Main function")
 }
