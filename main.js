@@ -1,6 +1,6 @@
-const primray=()=>{
-console.log("primrary function")
-}
+    const primray=()=>{
+    console.log("primrary function")
+    }
 const secondary=()=>{
     console.log("secondary function")
 }
